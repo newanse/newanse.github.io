@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>logo@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="100" height="100" rx="10"></rect>
+        <path d="M65.5775335,21.0871407 C67.2515981,16.6207362 72.4683898,13 77.253397,13 L86,13 L53.3913043,100 L36,100 L65.5775335,21.0871407 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="87" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A4" transform="translate(-112.000000, -52.000000)">
+            <g id="logo" transform="translate(112.000000, 52.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Rectangle-3" fill="#BB041A" xlink:href="#path-1"></use>
+                <g id="Rectangle" mask="url(#mask-2)" transform="translate(61.000000, 56.500000) scale(-1, 1) translate(-61.000000, -56.500000) " stroke-width="2.88" stroke="#FFFFFF" fill="#FFFFFF">
+                    <use mask="url(#mask-4)" xlink:href="#path-3"></use>
+                </g>
+                <path d="M25.5775335,21.0871407 C27.2515981,16.6207362 32.4683898,13 37.253397,13 L46,13 L13.3913043,100 L-4,100 L25.5775335,21.0871407 Z" id="Rectangle" fill-opacity="0.5252774" fill="#FFFFFF" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

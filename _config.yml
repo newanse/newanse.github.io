@@ -1,0 +1,28 @@
+# Site settings
+name: New/\nse.com
+description: "New sense and order"
+url: "www.newanse.com"
+
+
+github_username:  NewAnse
+twitter_username: NewAnse
+blog_url: "/blog"
+email: info@newanse.com
+public_key_url: "https://gist.githubusercontent.com/4bakker/d98a5ec626ea1a6e1a243b1ba2d26653/raw"
+
+
+avatar: yes
+avatar_img_path: "img/logo.svg"
+
+
+front_img: yes
+front_img_path: "img/background.jpg"
+
+favicon_img: yes
+favicon_img_path: "img/favicon.ico"
+
+exclude: [vendor, package.json, README.md, Gemfile, Gemfile.lock, Dockerfile, aerobatic.yml, aero-debug.log]
+include: ['_pages']
+# Build settings
+markdown: kramdown
+permalink: pretty
